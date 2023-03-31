@@ -1,5 +1,10 @@
 project_name = "Example-Publication"
 
+dsn="(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.uk-cardiff-1.oraclecloud.com))(connect_data=(service_name=gbb819862c7c797_oracleautonomoussam1_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
+
 server = ''                   
 database = ''          
 schema = ''
